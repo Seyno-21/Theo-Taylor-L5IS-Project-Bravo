@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Project Bravo/1.0.0": {
+        "runtime": {
+          "Project Bravo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Project Bravo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

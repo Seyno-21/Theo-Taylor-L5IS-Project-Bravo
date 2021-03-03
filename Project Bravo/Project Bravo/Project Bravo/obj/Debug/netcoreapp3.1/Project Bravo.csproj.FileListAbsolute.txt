@@ -1,0 +1,13 @@
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.csprojAssemblyReference.cache
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.AssemblyInfoInputs.cache
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.AssemblyInfo.cs
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.csproj.CoreCompileInputs.cache
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\bin\Debug\netcoreapp3.1\Project Bravo.exe
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\bin\Debug\netcoreapp3.1\Project Bravo.deps.json
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\bin\Debug\netcoreapp3.1\Project Bravo.runtimeconfig.json
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\bin\Debug\netcoreapp3.1\Project Bravo.runtimeconfig.dev.json
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\bin\Debug\netcoreapp3.1\Project Bravo.dll
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\bin\Debug\netcoreapp3.1\Project Bravo.pdb
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.dll
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.pdb
+C:\Users\theot\Desktop\Techtorium\C#\Project Bravo\Project Bravo\Project Bravo\obj\Debug\netcoreapp3.1\Project Bravo.genruntimeconfig.cache
